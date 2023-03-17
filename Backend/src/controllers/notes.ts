@@ -1,7 +1,6 @@
 import { RequestHandler } from "express"
 import createHttpError from "http-errors"
 import mongoose from "mongoose"
-import note from "../models/note"
 import NoteModel from "../models/note"
 
 
